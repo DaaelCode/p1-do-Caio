@@ -1,0 +1,330 @@
+body {
+    background-color: #042326;
+}
+
+pre {
+    font-family: "FonteSoft";
+}
+.titulo {
+    position: relative;
+    top: -800px;
+    left: 20px;
+    color: #0A3A40;
+    font-size: 100px;
+    font-family: "FonteBad";
+    }
+
+.a {
+    font-family: "FonteLemon";
+    color: black;
+}    
+
+.titulo2 {
+    color: #0e5d68;
+    font-size: 100px;
+    position: relative;
+    top: -860px;
+    left: 25px;
+    font-family: "FonteDue";
+    text-shadow: 0 0 5px rgb(77, 21, 21), 0 0 10px rgba(155, 25, 25, 0.733), 0 0 15px rgba(109, 12, 12, 0.336), 0 0 20px rgb(90, 15, 34);
+    }
+
+.oquesao {
+   position: relative;
+   top: 800px;
+   left: 10px;
+   color: #0A3A40;
+   font-size: 50px;
+   font-family: "FonteLemon";
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.oquesao2 {
+    background-color: #0A3A40;
+    font-size: 30px;
+    position: relative;
+    top: -310px;
+    left: -2px;
+}
+
+.Causas {
+   color: #0A3A40;
+   font-size: 50px;
+   position: relative;
+   top: 1500px;
+   left: 10px;
+   font-family: "FonteLemon";
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.causas1 {
+    background-color: #0A3A40;
+    color:black;
+    font-size: 30px;
+    position: relative;
+    top: 150px;
+    left: -2px;
+}
+
+.Consequências {
+   color: #0A3A40;
+   font-size: 50px;
+   position: relative;
+   top: 2370px;
+   left: 10px;
+   font-family: "FonteLemon";
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}   
+
+.consequencias2 {
+    background-color: #0A3A40;
+    color:black;
+    font-size: 30px;
+    position: relative;
+    top: 450px;
+    left: -2px;
+}
+
+
+/*INFOGRÁFICO*/
+
+.infographic {
+    position: relative;
+    top: 300px;
+    left: 320px;
+    max-width: 900px;
+    background: #0A3A40;
+    border-radius: 50px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black
+}
+
+.section {
+    color: black;
+    margin: 20px 0;
+}
+
+h2 {
+    color: black
+}
+
+.bar {
+    background-color: #4CAF50;
+    width: 100%;
+    border-radius: 5px;
+    text-align: right;
+    padding-right: 10px;
+    color: white;
+    transition: height 0.3s ease;
+}
+
+.prevenção{
+   color: #0A3A40;
+   font-size: 50px;
+   position: relative;
+   top: 3500px;
+   left: 10px;
+   font-family: "FonteLemon";
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.prevenção2 {
+    background-color: #0A3A40;
+    color:black;
+    font-size: 30px;
+    position: relative;
+    top: 1500px;
+    left: -2px;
+}
+
+.galeria {
+   color: #0A3A40;
+   font-size: 50px;
+   position: relative;
+   top: 4200px;
+   left: 10px;
+   font-family: "FonteLemon";
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/*imagens*/
+
+.img {
+   position: relative;
+   top: 1600px;
+   left: 90px;
+   max-width: 400px;
+   border-radius: 20px;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+   filter: grayscale(100%);
+   transition: filter 0.2s ease;
+}
+
+.img:hover {
+   filter: grayscale(0%);
+}
+
+.img1 {
+    position: relative;
+   top: 1600px;
+   left: 130px;
+   max-width: 428px;
+   border-radius: 30px;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+   filter: grayscale(100%);
+   transition: filter 0.2s ease;
+}
+
+.img1:hover {
+    filter: grayscale(0%);
+}
+
+
+.img2 {
+    position: relative;
+   top: 1600px;
+   left: 170px;
+   max-width: 480px;
+   border-radius: 30px;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+   filter: grayscale(100%);
+   transition: filter 0.2s ease;
+}
+
+.img2:hover {
+    filter: grayscale(0%);
+}
+
+.img3 {
+    position: relative;
+   top: 1700px;
+   left: 250px;
+   max-width: 480px;
+   border-radius: 30px;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+   filter: grayscale(100%);
+   transition: filter 0.2s ease;
+}
+
+.img3:hover {
+    filter: grayscale(0%);
+}
+
+.img4 {
+    position: relative;
+   top: 1700px;
+   left: 300px;
+   max-width: 540px;
+   border-radius: 30px;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+   filter: grayscale(100%);
+   transition: filter 0.2s ease;
+}
+
+.img4:hover {
+    filter: grayscale(0%);
+}
+
+@font-face {
+    font-family: 'FonteLemon';
+    src: url("components/LEMONMILK-BoldItalic.otf") format('woff2')
+}
+
+@font-face {
+    font-family: 'FonteDue';
+    src: url("components/DUE.TTF") format('woff2')
+}
+
+@font-face {
+    font-family: 'FonteBad';
+    src: url("components/Akira\ Expanded\ Demo.otf") format('woff2')
+}
+
+@font-face {
+    font-family: 'FonteSoft';
+    src: url("components/MADECarvingSoftPERSONALUSE-Bold.otf") format('woff2')
+}
+
+
+.navbar a {
+    position: relative;
+    top: -870px;
+    left:10px;
+    color: #93bd9a;
+    font-size: 20px;
+    display: block;
+    margin: 5px;
+}
+
+.navbar a:hover {
+    color: rgb(126, 226, 25);
+    font-size: 21px;
+    transition: font-size 0.3s ease;
+}
+
+.botao {
+    position: relative;
+    top: 4600px;
+    left: 350px;
+    font-size: 40px;
+    font-family: "FonteLemon";
+    color: white;
+    background-color: #4CAF50;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.botao:hover {
+    background-color: #00ff0d;
+}
+
+.container {
+    position: relative;
+    top: 1900px;
+    left: 0px;
+    max-width: 2100px;
+    background: white;
+    padding: 40px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #5cb85c;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
