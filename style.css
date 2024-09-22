@@ -5,6 +5,7 @@ body {
 pre {
     font-family: "FonteSoft";
 }
+
 .titulo {
     position: relative;
     top: -800px;
@@ -29,6 +30,7 @@ pre {
     text-shadow: 0 0 5px rgb(77, 21, 21), 0 0 10px rgba(155, 25, 25, 0.733), 0 0 15px rgba(109, 12, 12, 0.336), 0 0 20px rgb(90, 15, 34);
     }
 
+/*navegação*/    
 .oquesao {
    position: relative;
    top: 800px;
@@ -123,6 +125,7 @@ h2 {
     transition: height 0.3s ease;
 }
 
+/*NAVEGAÇÃO*/
 .prevenção{
    color: #0A3A40;
    font-size: 50px;
@@ -141,6 +144,8 @@ h2 {
     top: 1500px;
     left: -2px;
 }
+
+/*galeria*/
 
 .galeria {
    color: #0A3A40;
@@ -230,6 +235,7 @@ h2 {
     filter: grayscale(0%);
 }
 
+/*FONTES*/
 @font-face {
     font-family: 'FonteLemon';
     src: url("components/LEMONMILK-BoldItalic.otf") format('woff2')
@@ -250,7 +256,7 @@ h2 {
     src: url("components/MADECarvingSoftPERSONALUSE-Bold.otf") format('woff2')
 }
 
-
+/*links de navegaçãp*/
 .navbar a {
     position: relative;
     top: -870px;
@@ -267,6 +273,7 @@ h2 {
     transition: font-size 0.3s ease;
 }
 
+/*BOTAO*/
 .botao {
     position: relative;
     top: 4600px;
@@ -285,6 +292,7 @@ h2 {
     background-color: #00ff0d;
 }
 
+/*formulario*/
 .container {
     position: relative;
     top: 1900px;
